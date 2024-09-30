@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Halid</h1>
 <h3 align="center">A passionate flutter Developer</h3>
 
+- 👨‍💻 Linkdin [https://linkedin.com/in/muhammedhalid](https://linkedin.com/in/muhammedhalid)
+
 - 📫 How to reach me **halid480@gmail.com**
 
-<h3 align="left">Connect with me: <a href="https://github.com/MuhammedHalid/">Muhammed Halid</a></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
